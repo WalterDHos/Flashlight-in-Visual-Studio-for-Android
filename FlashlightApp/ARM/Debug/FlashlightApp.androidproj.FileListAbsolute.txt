@@ -1,0 +1,7 @@
+E:\FlashlightApp\ARM\Debug\FlashlightApp.androidprojAssemblyReference.cache
+E:\FlashlightApp\ARM\Debug\FlashlightApp.apk.recipe
+E:\FlashlightApp\ARM\Debug\FlashlightApp.apk.recipe.merged
+E:\FlashlightApp\ARM\Debug\Package\src\com\FlashlightApp\FlashlightApp.java
+E:\FlashlightApp\ARM\Debug\FileStringReplace.incremental
+E:\FlashlightApp\ARM\Debug\FlashlightApp.apk
+E:\FlashlightApp\ARM\Debug\FlashlightApp.lastsuccessfuldeploy
